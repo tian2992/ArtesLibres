@@ -1,0 +1,9 @@
+Este es un repositorio con varias artes libres en SVG para la [comunidad de software libre en Guatemala](http://slgt.org)
+
+Actualmente unicamente contiene el logo de LUGUSAC, pero se espera que crezca con mas recursos libres.
+
+## Contenidos
+* Logo de LUGUSAC / CC-BY / Modificaciones por [Sebastian Oliva](http://sebastianoliva.com)
+* Logo de LUGUSAC con slogan
+
+Estas totalmente invitado a hacer modificaciones y enviar patches y nuevos diseños.
