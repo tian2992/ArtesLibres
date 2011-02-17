@@ -6,7 +6,8 @@ Actualmente unicamente contiene el logo de LUGUSAC, pero se espera que crezca co
 * Logo de LUGUSAC / CC-BY / Modificaciones por [Sebastian Oliva](http://sebastianoliva.com)
 * Logo de LUGUSAC con slogan
 * Posters de diferentes distribuciones, todos basados a partir de los posters libres de www.opensuse.org  // CC-BY / Modificados por [fernando mejia](ferantomejia@gmail.com)
-* Poster del 1er encuentro de SL Retalhuleu, usando imagenes libres de diferentes distros y de lugabaj // CC-BY / Diseñado por [fernando mejia](ferantomejia@gmail.com)
+* Poster del 1er encuentro de SL Retalhuleu, usando imagenes libres de diferentes distros y de lugabaj // CC-BY / Diseñado por [fernando mejia](ferantomejia@gmail.com)
+* Trifoliares con información básica de SLGT, usando imagenes libres// CC-BY / Diseñado por [fernando mejia](ferantomejia@gmail.com)
 
 
-Estas totalmente invitado a hacer modificaciones y enviar patches y nuevos diseños.
+Estas totalmente invitado a hacer modificaciones y enviar patches y nuevos diseños.
