@@ -15,7 +15,7 @@
    id="svg3196"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="ssl_19.pdf">
+   sodipodi:docname="ssl_19.svg">
   <defs
      id="defs3198" />
   <sodipodi:namedview
@@ -27,12 +27,12 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.55995301"
      inkscape:cx="330.19341"
-     inkscape:cy="477.54154"
+     inkscape:cy="334.67241"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1214"
-     inkscape:window-height="743"
+     inkscape:window-height="677"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -68,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -124,9 +124,9 @@
            x="417.9874"
            y="831.73291" /></flowRegion><flowPara
          id="flowPara4413">Sábado 18 de junio, 2011</flowPara><flowPara
-         id="flowPara4415">14:00</flowPara><flowPara
+         id="flowPara4415">14:00 horas</flowPara><flowPara
          id="flowPara4417">Edificio T3, Cuarto Nivel</flowPara><flowPara
-         id="flowPara4419">Salón ITCoE (India)</flowPara><flowPara
+         id="flowPara4419">Salón ITCoE (Lab. India)</flowPara><flowPara
          id="flowPara3525">USAC</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4443"
