@@ -15,7 +15,7 @@
    id="svg3196"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="ssl_19.svg">
+   sodipodi:docname="ssl_19.pdf">
   <defs
      id="defs3198" />
   <sodipodi:namedview
@@ -25,14 +25,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.445593"
-     inkscape:cx="391.49775"
-     inkscape:cy="444.32699"
+     inkscape:zoom="0.55995301"
+     inkscape:cx="330.19341"
+     inkscape:cy="477.54154"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1214"
-     inkscape:window-height="768"
+     inkscape:window-height="743"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -68,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -81,7 +81,7 @@
        xml:space="preserve"
        id="flowRoot4361"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-       transform="translate(6.677,56.12948)"><flowRegion
+       transform="translate(6.677,44.12948)"><flowRegion
          id="flowRegion4363"><rect
            id="rect4365"
            width="637.1264"
@@ -89,8 +89,8 @@
            x="56.81382"
            y="28.223198" /></flowRegion><flowPara
          id="flowPara4367"
-         style="font-size:64px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Yanone Kaffeesatz Bold">¿Deseas publicar tus contenidos en linea?</flowPara></flowRoot>    <flowRoot
-       transform="translate(6.975,192.22215)"
+         style="font-size:64px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:League Gothic Bold;font-family:League Gothic;font-style:normal;font-stretch:normal;font-variant:normal">¿Deseas publicar tus contenidos en línea?</flowPara></flowRoot>    <flowRoot
+       transform="translate(6.975,178.22215)"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
        id="flowRoot4391"
        xml:space="preserve"><flowRegion
@@ -101,7 +101,7 @@
            width="637.1264"
            id="rect4395" /></flowRegion><flowPara
          style="font-size:64px;font-weight:normal;text-align:center;text-anchor:middle;-inkscape-font-specification:Yanone Kaffeesatz"
-         id="flowPara4397">¡realizalo con software libre!</flowPara></flowRoot>    <flowRoot
+         id="flowPara4397">¡realízalo con software libre!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4399"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
@@ -116,17 +116,18 @@
        xml:space="preserve"
        id="flowRoot4407"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-       transform="matrix(2.3270152,0,0,2.3270152,-557.418,-1139.8411)"><flowRegion
+       transform="matrix(2.1791737,0,0,2.1791737,-483.36567,-1004.2313)"><flowRegion
          id="flowRegion4409"><rect
            id="rect4411"
            width="332.76666"
            height="131.88922"
            x="417.9874"
            y="831.73291" /></flowRegion><flowPara
-         id="flowPara4413">Sabado 18 de junio, 2011</flowPara><flowPara
+         id="flowPara4413">Sábado 18 de junio, 2011</flowPara><flowPara
          id="flowPara4415">14:00</flowPara><flowPara
          id="flowPara4417">Edificio T3, Cuarto Nivel</flowPara><flowPara
-         id="flowPara4419">Salon ITCoE (India)</flowPara></flowRoot>    <flowRoot
+         id="flowPara4419">Salón ITCoE (India)</flowPara><flowPara
+         id="flowPara3525">USAC</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4443"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
@@ -140,7 +141,7 @@
            style="font-size:18px" /></flowRegion><flowPara
          id="flowPara4449" /></flowRoot>    <g
        id="g3477"
-       transform="translate(0,-28)">
+       transform="translate(0,-68)">
       <g
          transform="matrix(3.0917919,0,0,-3.0917919,-148.01502,890.38539)"
          id="g3163">
@@ -204,7 +205,7 @@
              id="rect3235" /></flowRegion><flowPara
            style="font-size:98px;font-weight:normal;-inkscape-font-specification:Yanone Kaffeesatz"
            id="flowPara3237">Wordpress</flowPara></flowRoot>      <flowRoot
-         transform="translate(392.28572,42.571429)"
+         transform="translate(392.28572,44)"
          xml:space="preserve"
          id="flowRoot3239"
          style="font-size:98px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"><flowRegion
@@ -248,18 +249,18 @@
          xml:space="preserve"
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
          x="560.80475"
-         y="758.60437"
+         y="757.79517"
          id="text4459"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan4461"
            x="560.80475"
-           y="758.60437"
+           y="757.79517"
            style="font-size:32px;font-weight:normal;text-align:center;text-anchor:middle;-inkscape-font-specification:Yanone Kaffeesatz">periodismo</tspan><tspan
            id="tspan4467"
            sodipodi:role="line"
            x="560.80475"
-           y="786.50067"
+           y="785.69147"
            style="font-size:20px;font-weight:normal;text-align:center;text-anchor:middle;-inkscape-font-specification:Yanone Kaffeesatz">Claudia Cruz (ccruz)</tspan></text>
     </g>
     <image
@@ -267,10 +268,10 @@
        height="75.330185"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAA2CAIAAAADJ/2KAAAAA3NCSVQICAjb4U/gAAABZElEQVRo gd2ZQQ7DIAwES9X/fzk9+GLJWncMh3Szl0aBQjKy8ULWdV2v/9b77gf4rU/8rLXgH4J69O+vs2of PpcPxVAfl/ntK496nUerI/O53CiGaqyo2FJ9ovV8nJAnxRP18bqnp1Os8Zd1zi/kSZFUbcWv3u9H I3O5UeTRo+oHqdHTuXwoTl0jj1dSP3oZUFx9DVAZSvwfoaha8/gGFAfV5YSZymiS+wYUZSySfUm/ tk09vJIBxcHehWRilcp9UuVDBhTXtG72b78Xu30+GFCUschXuH69zP2nlSzkRnF63lA1PdkheW1A calMDBFvx/cuvBqZOZ11wkn15J6ylw1F5Bf5idZ019znfsiH4vT8mXtB1coz3YdiaMqGfyvoZ3lK LGZxR91/E8j31em3klmN3jyl7UmraONOKvd5LkWi3p8TfiFPintfqPeylaysbhSnrm7q0pWDVNc2 GY1c970yoPgF3NJ0drkDTy4AAAAASUVORK5CYII= "
        id="image2993"
-       x="163.02461"
-       y="931.65698" />
+       x="97.642006"
+       y="928.0603" />
     <g
-       transform="matrix(0.14651706,0,0,0.14651706,70.125781,815.05627)"
+       transform="matrix(0.14651706,0,0,0.14651706,69.395862,829.05623)"
        style="overflow:visible"
        id="g3381">
       <g
@@ -362,12 +363,24 @@
        xml:space="preserve"
        id="flowRoot3469"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-       transform="translate(10,30.362)"><flowRegion
+       transform="translate(76.052035,74.443615)"><flowRegion
          id="flowRegion3471"><rect
            id="rect3473"
            width="138.30196"
            height="23.050327"
            x="146.53423"
            y="879.68774" /></flowRegion><flowPara
-         id="flowPara3475">http://lugusac.org</flowPara></flowRoot>  </g>
+         id="flowPara3475">http://lugusac.org</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3565"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+       transform="matrix(1.7045886,0,0,1.7045886,-276.46434,-429.94746)"><flowRegion
+         id="flowRegion3567"><rect
+           id="rect3569"
+           width="649.76709"
+           height="31.246506"
+           x="61.691822"
+           y="699.96832" /></flowRegion><flowPara
+         id="flowPara3571"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:League Gothic;-inkscape-font-specification:League Gothic">(taller gratuito e incluye CD con el software instalado)</flowPara></flowRoot>  </g>
 </svg>
